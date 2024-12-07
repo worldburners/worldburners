@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @worldburners
 - 👀 I’m interested in game programming, graphic design, and cats.
-- 🌱 I’m currently learning javascript and figma.
+- 🌱 I’m currently learning 3d design.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: Ask for my discord.
 
